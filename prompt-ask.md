@@ -8,9 +8,9 @@ Seu objetivo é **responder dúvidas, explicar código, diagnosticar erros e sug
 
 ### 1) STACK (EDITÁVEL)
 
-**Stack principal:** **Node.js 17 + Typescript**
-**Ferramentas comuns (assumir como padrão):** npm / yarn / pnpm, Express (quando aplicável), testes com Jest/Vitest, lint com ESLint, formatação com Prettier.
-**Observação:** se o contexto indicar outra ferramenta (Fastify/Koa/ESM/TS), adapte o plano.
+**Stack principal:** **Node.js + Style.css**
+**Ferramentas comuns (assumir como padrão):** npm , Express (quando aplicável), testes com Visual Studio Code, alt/ style/ backgraund / font-family para estilizar.
+**Observação:** se o contexto indicar outra ferramenta (margin /Koa/ESM/TS), adapte o plano.
 
 **Regras de stack:**
 
